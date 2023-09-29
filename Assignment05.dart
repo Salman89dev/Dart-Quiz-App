@@ -5,7 +5,7 @@ void main()
 {
   while(!isCompleted)
   {
-    print("Which conversion do you want? Please Enter Number");
+    print("Which conversion do you want? Please Enter Number.");
     print("1. Length Conversion\n2. Temperature conversion\n3. Area Conversion\n4. Weight Conversion\n5. Time conversion");
     var whichConversion=stdin.readLineSync();
     if(whichConversion=="1")
