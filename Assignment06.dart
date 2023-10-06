@@ -23,7 +23,6 @@ class Quiz {
     '18': 'What is the largest desert in the world?',
     '19': 'What is the chemical symbol for gold?',
     '20': 'How many continents are there? ',
-    // Add more questions here
   };
 
   var answers = {
