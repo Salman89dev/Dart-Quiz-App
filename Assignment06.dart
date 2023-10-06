@@ -22,7 +22,7 @@ class Quiz {
     '17': 'Who is the author of "To Kill a Mockingbird"?',
     '18': 'What is the largest desert in the world?',
     '19': 'What is the chemical symbol for gold?',
-    '20': 'How many continents are there?',
+    '20': 'How many continents are there? ',
     // Add more questions here
   };
 
@@ -45,7 +45,7 @@ class Quiz {
     '16': 'Pacific Ocean',
     '17': 'Harper Lee',
     '18': 'Antarctica',
-    '19': 'Au',
+    '19': 'au',
     '20': '7',
     // Add more answers here
   };
