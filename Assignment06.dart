@@ -47,7 +47,6 @@ class Quiz {
     '18': 'Antarctica',
     '19': 'au',
     '20': '7',
-    // Add more answers here
   };
 
   int totalQuestions;
